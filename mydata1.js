@@ -11,6 +11,7 @@ $(document).ready(function()
                     success:function(p)
                     {
                         $("#image").hide();
+                        
                         //var output="<table class='table'><thead><tr><td>ID</td><td>NAME</td><td>USERNAME</td><td>EMAIL</td><td>ADDRESS</td></tr></thead>"
                         var output="";
                         for(var i in p)
