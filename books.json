@@ -1,0 +1,59 @@
+[{
+    "name":"The God of Small Things",
+    "author":"Arundhati Roy",
+    "category":"Fiction",
+    "price":499
+},
+
+{
+    "name":"3 Mistakes of my Life",
+    "author":"Chetan Bhagat",
+    "category":"Fiction",
+    "price":200
+},
+
+{
+    "name":"Wings of Fire",
+    "author":"APJ Abdul Kalam",
+    "category":"Autobiography",
+    "price":300
+},
+
+{
+    "name":"The Ministry of Utmost Happiness",
+    "author":"Arundhati Roy",
+    "category":"Fiction",
+    "price":399
+},
+
+{
+    "name":"The Alchemist",
+    "author":"Paulo Coelho",
+    "category":"Quest, Adventure, Fantasy",
+    "price":300
+},
+
+
+
+{
+    "name":"Playing it my way",
+    "author":"Sachin Tendulkar,Boria Majumdar",
+    "category":"Autobiography",
+    "price":350
+},
+
+{
+    "name":"The Story of my experiments with truth",
+    "author":"Mahatma Gandhi",
+    "category":"Autobiography",
+    "price":300
+},
+
+{
+    "name":"Aadujeevitham",
+    "author":"Benyamin",
+    "category":"Novel",
+    "price":300
+
+
+}]
