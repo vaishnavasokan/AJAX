@@ -1,0 +1,34 @@
+[{
+        "name":"abc",
+        "dob":"20/04/1996",
+        "college":"DIST",
+        "mob":9562123456
+},
+
+{
+    "name":"pqr",
+    "dob":"10/08/1997",
+    "college":"SBC",
+    "mob":9388456542
+},
+
+{
+    "name":"hij",
+    "dob":"12/06/1995",
+    "college":"TocH",
+    "mob":8089456759
+},
+
+{
+    "name":"lmn",
+    "dob":"15/08/1993",
+    "college":"Asiet",
+    "mob":9074562123
+},
+
+{
+    "name":"xyz",
+    "dob":"30/10/1995",
+    "college":"FISAT",
+    "mob":7736562123
+}]
