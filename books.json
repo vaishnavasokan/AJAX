@@ -2,35 +2,40 @@
     "name":"The God of Small Things",
     "author":"Arundhati Roy",
     "category":"Fiction",
-    "price":499
+    "price":499,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 {
     "name":"3 Mistakes of my Life",
     "author":"Chetan Bhagat",
     "category":"Fiction",
-    "price":200
+    "price":200,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 {
     "name":"Wings of Fire",
     "author":"APJ Abdul Kalam",
     "category":"Autobiography",
-    "price":300
+    "price":300,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 {
     "name":"The Ministry of Utmost Happiness",
     "author":"Arundhati Roy",
     "category":"Fiction",
-    "price":399
+    "price":399,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 {
     "name":"The Alchemist",
     "author":"Paulo Coelho",
     "category":"Quest, Adventure, Fantasy",
-    "price":300
+    "price":300,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 
@@ -39,21 +44,24 @@
     "name":"Playing it my way",
     "author":"Sachin Tendulkar,Boria Majumdar",
     "category":"Autobiography",
-    "price":350
+    "price":350,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 {
     "name":"The Story of my experiments with truth",
     "author":"Mahatma Gandhi",
     "category":"Autobiography",
-    "price":300
+    "price":300,
+    "image1":"./the_god_of_small_things.jpg"
 },
 
 {
     "name":"Aadujeevitham",
     "author":"Benyamin",
     "category":"Novel",
-    "price":300
+    "price":300,
+    "image1":"./the_god_of_small_things.jpg"
 
 
 }]

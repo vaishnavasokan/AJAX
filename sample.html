@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="./mydata2.js"></script>
+    <script>
+        /*$(document).ready(function()
+            {
+              $("#category").mouseenter(function()
+              {
+                $("#ct").slideDown("slow",function()
+                {
+                        $("#c1").click(function()
+                        {
+                            $("#ct").hide(250);
+                            
+
+
+                        });
+                });
+
+              });
+              /*$("#category").mouseleave(function()
+              {
+                $("#panel").slideUp("slow");
+
+              });*/
+    
+    </script>
+    <style>
+        #ct
+        {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: white;
+            background-color: rgb(62, 173, 247);
+        }
+    
+    </style>
+</head>
+<body>
+        <nav class="navbar navbar-expand-sm bg-primary navbar-dark">
+                <ul class="navbar-nav">
+                <li class="nav-item" id="home">
+                <a class="nav-link" href="./library.html">Home</a>
+                </li>
+                <li class="nav-item  active" id="category">
+                <a class="nav-link" href="./sample.html">Category</a>
+                </li>
+                </ul>
+        </nav>
+        <div class="col col-4">
+                    <div id="ct" style="display: none;"><p id="c1">Autobiography</p>
+                    <p id="c2">Fiction</p>
+                    <p id="c3">Quest, Adventure, Fantasy</p></div>
+                    </div> 
+        </div>
+        <div class="container">
+        <br>
+        <div class="row">
+            <div class="col col-12">
+                <button class="btn btn-success" id="btn1">Submit</button>
+                <br>
+                <br>
+                <img src="./ajax-loader.gif"  id="image"></img>
+                <div class="result"></div>
+            </div>
+        </div>
+    </div>
+
+
+    
+</body>
+</html>

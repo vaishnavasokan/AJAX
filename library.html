@@ -15,12 +15,12 @@
                 $("#panel").slideDown("slow");
 
               });
-              $("#category").mouseleave(function()
+              /*$("#category").mouseleave(function()
               {
                 $("#panel").slideUp("slow");
 
               });
-            });
+            });*/
     </script>
     <style>
         #panel
@@ -46,7 +46,7 @@
             </ul>
     </nav>
         <div class="col col-4">
-            <div id="panel" style="display: none; border: 1px solid blue"><p>Autobiography</p>
+            <div id="panel" style="display: none; border: 1px solid blue"><p onclick="getData">Autobiography</p>
             <p>Fiction</p>
             <p>Quest, Adventure, Fantasy</p></div>
         </div>

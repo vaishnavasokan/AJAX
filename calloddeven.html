@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+
+    <div>
+        <input type="text" id="name"></div>
+        <button type="button" onclick="oddevn()">Odd/Even</button>
+        <p id="p1"></p>
+    </div>
+    
+    <script>
+
+    function oddevn()
+    {
+        var n=parseInt(document.getElementById("name").value); 
+
+        even(n,(res)=>
+        {
+            document.getElementById("p1").innerHTML=res;
+        });
+    }
+
+    function even(n,callback)
+    {
+        var res="";
+        if(n%2==0)
+            res="even"; 
+        else
+            res="odd";     
+        callback(res);
+    }
+
+    </script>
+        
+</body>
+</html>

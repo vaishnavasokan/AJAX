@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div id="rs"></div>
+
+    <script>
+
+            function add(a,b,callback)
+            {
+                var c=a+b;
+                callback(c);
+            }
+        
+           /* function display(res)
+            {   
+                    console.log(res);
+                    document.getElementById("rs").innerHTML=res;
+            }
+        
+            add(5,10,display);*/ //callback function
+
+            add(5,10,(res)=>{
+
+                console.log(res);
+                document.getElementById("rs").innerHTML=res;        //anonymous function
+            });
+            
+        
+    </script>
+</body>
+</html>

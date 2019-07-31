@@ -8,6 +8,7 @@ $(document).ready(function()
             $.ajax({
                     type:"GET",
                     url:"https://jsonplaceholder.typicode.com/users",
+                    //beforesend:function()
                     success:function(p)
                     {
                         $("#image").hide();
