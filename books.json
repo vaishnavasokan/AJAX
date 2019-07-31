@@ -11,7 +11,7 @@
     "author":"Chetan Bhagat",
     "category":"Fiction",
     "price":200,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./3m.jpg"
 },
 
 {
@@ -19,7 +19,7 @@
     "author":"APJ Abdul Kalam",
     "category":"Autobiography",
     "price":300,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./apj.jpg"
 },
 
 {
@@ -27,7 +27,7 @@
     "author":"Arundhati Roy",
     "category":"Fiction",
     "price":399,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./mouh.jpg"
 },
 
 {
@@ -35,7 +35,7 @@
     "author":"Paulo Coelho",
     "category":"Quest, Adventure, Fantasy",
     "price":300,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./alchemist.jpg"
 },
 
 
@@ -45,7 +45,7 @@
     "author":"Sachin Tendulkar,Boria Majumdar",
     "category":"Autobiography",
     "price":350,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./tendulkar-playing-it-my-way.jpg"
 },
 
 {
@@ -53,7 +53,7 @@
     "author":"Mahatma Gandhi",
     "category":"Autobiography",
     "price":300,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./mkg.jpg"
 },
 
 {
@@ -61,7 +61,7 @@
     "author":"Benyamin",
     "category":"Novel",
     "price":300,
-    "image1":"./the_god_of_small_things.jpg"
+    "image1":"./aj.jpg"
 
 
 }]
